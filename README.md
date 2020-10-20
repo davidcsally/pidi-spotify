@@ -106,3 +106,11 @@ Then copy the systemd service into place and enable it:
 sudo cp pidi-spotify.service /etc/systemd/system/
 sudo systemctl enable pidi-spotify
 ```
+
+### Troubleshooting
+
+Check your device output using `aplay -l`. Use the device here in the raspotify config
+
+install raspbian lite on sd card
+
+install pip3, Pillow, fonts, font_roboto
