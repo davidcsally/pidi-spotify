@@ -113,4 +113,5 @@ Check your device output using `aplay -l`. Use the device here in the raspotify 
 
 install raspbian lite on sd card
 
-install pip3, Pillow, fonts, font_roboto
+install pip3, Pillow, fonts, font_roboto, numpy
+^^ install these using `sudo pip3 install`
