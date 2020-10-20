@@ -115,3 +115,5 @@ install raspbian lite on sd card
 
 install pip3, Pillow, fonts, font_roboto, numpy
 ^^ install these using `sudo pip3 install`
+sudo apt-get install libatlas-base-dev
+
