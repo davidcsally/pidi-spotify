@@ -113,7 +113,10 @@ Check your device output using `aplay -l`. Use the device here in the raspotify 
 
 install raspbian lite on sd card
 
-install pip3, Pillow, fonts, font_roboto, numpy
+install pip3, Pillow, fonts, font_roboto, numpy, spidev, RPi.GPIO
+
 ^^ install these using `sudo pip3 install`
+
 sudo apt-get install libatlas-base-dev
+sudo apt-get install libopenjp2-7
 
